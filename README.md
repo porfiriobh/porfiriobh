@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Porfirio aka @porfiriobh
-- 👀 I’m interested in Biology, paleobiology, web development, data science and SIG
+- 👀 I’m interested in Biology, web development, data science and SIG
 - 🌱 I’m currently learning python,SQL, mongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bh.porfirio@gmail.com
